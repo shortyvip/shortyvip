@@ -1,8 +1,8 @@
-# 🚀 Shorty
+# Shorty
 
 A decentralized perpetual futures protocol on Solana for shorting any SPL token.
 
-![Shorty Interface](https://your-image-url.com/screenshot.png)
+
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ npm run build
 
 ## 📖 Documentation
 
-Visit our [documentation](https://docs.shorty.finance) for detailed information about:
+Visit our [documentation](https://shorty.vip) for detailed information about:
 
 - Protocol Architecture
 - Smart Contracts
@@ -49,9 +49,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
-
-- [Website](https://shorty.finance)
-- [Documentation](https://docs.shorty.finance)
-- [Twitter](https://twitter.com/shortyfinance)
-- [Discord](https://discord.gg/shorty)
